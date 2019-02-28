@@ -1,7 +1,17 @@
 ---
-title: "research"
+title: "Publications"
 ---
 
-# Publications
+### Articles
 
-Bongiolo et al 2019.
+Predation on the Southern Water Snake, *Nerodia fasciata* (Serpentes: Natricidae) by American Bittern, *Botaurus lentiginosus* (Aves: Ardeidae)
+
+Predation on the Cuban Tree-frog *Osteopilus septentrionalis* (Anura: Hylidae) by the Eastern ratsnake *Pantherophis alleghaniensis* (Serpentes: Colubridae)
+
+Simão, L., Costa, P.D. De, Bongiolo, E.S., Furmanski, M., 2015. Proposed environmental program education in a plastic industry and metal mechanical, in: 6° Forum Internacional de Resíduos Sólidos. São José dos Campos, pp. 1–7.
+
+### Thesis and Final projects
+
+Bongiolo, E.S., 2019. Evaluation of swidden fallow potential to increase landscape-level Brazil nut (*Bertholletia excelsa*) productivity in western amazonia. Master Thesis. University of Florida, School of Forest Resources and Conservation, Gainesville, 62pg.
+
+Bongiolo, E.S., 2013. Avaliação da qualidade das águas superficiais em área de mineração de cassiterita em processo de reabilitação ambiental, na Floresta Nacional do Jamari, Rondônia. Universidade do Extremo Sul Catarinense.

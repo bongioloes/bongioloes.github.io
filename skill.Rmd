@@ -1,7 +1,36 @@
 ---
-title: "skill"
+title: "Skill"
 ---
 
-# Programming languages
-R
-Pyhton
+### Programming languages
+####Pyhton (2 years)
+* Summary:
+ + Used to build a model to predict growth, survivorship and production of Brazil nuts in secondary forest.
+ + Was the language used for a class in Ecosystem Simulation
+
+####R (2 years)
+* Summary:
+ + Output data from the model build in Python was managed in R. All statistical analysis and graphs were performed using this language.
+ + The final map of my Master thesis was built in R. I integrated data from the model and field questionnaires with shapefiles.
+
+### Geospatial tools
+####GIS (4 years)
+* Summary:
+ + I have used GIS tools since my undergraduate. Elaboration of maps using different data sources were always part of classes and projects after graduation.
+ + During my Master, I also had to deal with shape and raster files from different sources with different (or inexistent) coordinate reference systems.
+ + Most used softwares:
+  - ArcGIS (ArcMap)
+  - Rstudio (R)
+  - AutoCad
+
+####Remote sensing (1 year)
+* Summary:
+ + Satellite imagery was used to verify the age of secondary forest patches during my Master.
+ + Most used softwares:
+  - ERDAS Imagine
+  - ENVI
+  - Google Earth Engine
+
+### Others
+####Basic statistical analyses (2 years)
+

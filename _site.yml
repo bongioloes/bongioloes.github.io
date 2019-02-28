@@ -11,8 +11,6 @@ navbar:
     - text: "Pictures"
       href: pictures.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/bongioloes
     - icon: fa-researchgate fa-lg

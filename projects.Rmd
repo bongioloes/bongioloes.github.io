@@ -2,4 +2,6 @@
 title: "Projects"
 ---
 
-#Projects that I have work on or that I am working on.
+### Current projects
+#### Evaluation of swidden fallow potential to increase landscape-level Brazil nut (*Bertholletia excelsa*) productivity in western amazonia
+Master Thesis - This study examines the extent to which forest residents could increase nut productivity by allowing their fallows to grow into Brazil nut rich forests. Brazil nut (*Bertholletia excelsa*) is considered the ‘cornerstone non-timber species of Amazonian conservation’. Nuts (or seeds) of this massive tree are harvested by local people living in and near old growth forests, supporting local livelihoods and regional economies. Secondary forests, however, particularly plots previously used for agriculture (swidden fallows), present better B. excelsa seedling and sapling recruitment than mature forest. But no study have look at the future perspectives of secondary forest.
