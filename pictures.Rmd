@@ -1,5 +1,6 @@
 ---
-title: "My hobby"
+title: "Photography"
 ---
 
-#Photos will be uploaded soon
+##Photography is my hobby.
+Photos will be uploaded soon.
