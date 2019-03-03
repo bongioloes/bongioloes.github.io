@@ -8,18 +8,18 @@ Created on Thu Feb 28 18:52:48 2019
 import shutil
 import os
 
-source = "C:/Users/eduar/Documents/bongioloes.github.io/_site/"
-dest = "C:/Users/eduar/Documents/bongioloes.github.io/"
+#source = "C:/Users/eduar/Documents/bongioloes.github.io/_site/"
+#dest = "C:/Users/eduar/Documents/bongioloes.github.io/"
 
-files = os.listdir(source)
-files.remove("files")
-files.remove("images")
-files.remove("pos_html_arrangaments.py")
+#files = os.listdir(source)
+#files.remove("files")
+#files.remove("images")
+#files.remove("pos_html_arrangaments.py")
 
-for f in files:
-        shutil.move(source+f, dest)
+#for f in files:
+#        shutil.move(source+f, dest)
 
-shutil.rmtree("C:/Users/eduar/Documents/bongioloes.github.io/_site/")
+#shutil.rmtree("C:/Users/eduar/Documents/bongioloes.github.io/_site/")
 
 ### Index page
 index = open("index.html", encoding = "Latin-1",).read().replace('class="fa fa-researchgate','class="fab fa-researchgate')
