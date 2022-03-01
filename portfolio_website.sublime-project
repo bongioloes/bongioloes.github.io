@@ -2,25 +2,7 @@
 	"folders":
 	[
 		{
-			"path": ".git",
-		},
-		{
-			"path": ".Rproj.user",
-		},
-		{
-			"path": "files",
-		},
-		{
-			"path": "html5up-miniport",
-		},
-		{
-			"path": "html5up-spectral",
-		},
-		{
-			"path": "images",
-		},
-		{
-			"path": "site_libs"
+			"path": ".",
 		},
 	],
 }
