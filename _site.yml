@@ -17,7 +17,6 @@ navbar:
       href: https://www.researchgate.net/profile/Eduardo_Schmitz_Bongiolo
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/eduardo-bongiolo/
-output_dir: '.'
 output:
   html_document:
     theme: cosmo
