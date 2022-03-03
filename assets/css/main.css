@@ -2030,7 +2030,7 @@ input, select, textarea {
 		}
 
 		.icon > .label {
-			display: none;
+			display: none;				
 		}
 
 		.icon:before {
@@ -2315,10 +2315,17 @@ input, select, textarea {
 
 		ul.icons.major {
 			padding: 1em 0;
+			display: flex;
+			align-items:baseline;
+			justify-content: center;
 		}
 
 			ul.icons.major li {
 				padding-right: 3.5em;
+				display: flex;
+				flex-flow: column nowrap;
+				margin:  0 2em;
+				padding: 0;
 			}
 
 				@media screen and (max-width: 736px) {

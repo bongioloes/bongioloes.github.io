@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-archive/
+.archive/
+.sublime-project
+.sublime-workspace
+.data/
